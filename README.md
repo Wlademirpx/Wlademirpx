@@ -34,8 +34,6 @@ Tech Stack
 
 </div>
 
-
-
 Engineering
 REST APIs
 PostgreSQL
@@ -48,8 +46,7 @@ Docker & Containers
 Cloud Computing
 
 ---
-
-Currently Learning
+**Currently Learning**
 Advanced Golang
 Software Architecture
 Cloud Computing
