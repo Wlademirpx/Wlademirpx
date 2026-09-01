@@ -6,7 +6,7 @@ Wlademir Pontes Xavier | @Wlademirpx
 
 ---
 
-About Me
+### About Me
 I'm a Backend Developer focused on building reliable, maintainable and well-structured backend systems.
 
 My main experience is with Golang, working with REST APIs, PostgreSQL, automated testing, authorization, cloud services and backend architecture.
@@ -17,7 +17,7 @@ Currently, I'm expanding my knowledge in Cloud Computing, DevOps, distributed sy
 
 ---
 
-Tech Stack
+### Tech Stack
 <div align="center">
 
 <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@ Tech Stack
 
 </div>
 
-Engineering
+### Engineering
 REST APIs
 PostgreSQL
 Backend Architecture
@@ -46,6 +46,7 @@ Docker & Containers
 Cloud Computing
 
 ---
+
 **Currently Learning**
 Advanced Golang
 Software Architecture
@@ -53,9 +54,10 @@ Cloud Computing
 DevOps
 Distributed Systems
 Data Structures & Algorithms
+
 ---
 
-Connect
+### Connect
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladpx/)
