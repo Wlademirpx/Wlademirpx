@@ -18,26 +18,20 @@ Currently, I'm expanding my knowledge in Cloud Computing, DevOps, distributed sy
 ---
 
 Tech Stack
-Backend
 <div align="center">
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=go,postgres,docker" />
 </a>
 
-</div>
 
-Cloud & Infrastructure
 <div align="center">
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=gcp,aws,linux" />
 </a>
 
-</div>
 
-Tools
-<div align="center">
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
