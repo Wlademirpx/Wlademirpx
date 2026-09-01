@@ -24,14 +24,9 @@ Tech Stack
   <img src="https://skillicons.dev/icons?i=go,postgres,docker" />
 </a>
 
-
-<div align="center">
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=gcp,aws,linux" />
 </a>
-
-
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
