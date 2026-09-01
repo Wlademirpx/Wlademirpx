@@ -47,7 +47,7 @@ Cloud Computing
 
 ---
 
-## Currently Learning |
+## Currently Learning
 Advanced Golang |
 Software Architecture |
 Cloud Computing |
