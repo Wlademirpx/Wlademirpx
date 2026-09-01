@@ -1,7 +1,6 @@
 <div align="center">
 
 Wlademir Pontes Xavier | @Wlademirpx
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&random=false&width=550&lines=Backend+Developer;Golang+%7C+PostgreSQL+%7C+Cloud;Building+reliable+backend+systems;Always+learning+and+improving)
 
 </div>
 
