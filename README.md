@@ -35,25 +35,25 @@ Currently, I'm expanding my knowledge in Cloud Computing, DevOps, distributed sy
 </div>
 
 ### Engineering
-REST APIs
-PostgreSQL
-Backend Architecture
-Automated Testing
-Authentication & Authorization
-Event-Driven Systems
-CI/CD
-Docker & Containers
+REST APIs |
+PostgreSQL |
+Backend Architecture |
+Automated Testing |
+Authentication & Authorization |
+Event-Driven Systems |
+CI/CD |
+Docker & Containers |
 Cloud Computing
 
 ---
 
-**Currently Learning**
-Advanced Golang
-Software Architecture
-Cloud Computing
-DevOps
-Distributed Systems
-Data Structures & Algorithms
+**Currently Learning** |
+Advanced Golang |
+Software Architecture |
+Cloud Computing |
+DevOps |
+Distributed Systems |
+Data Structures & Algorithms |
 
 ---
 
