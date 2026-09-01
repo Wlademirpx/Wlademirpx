@@ -25,7 +25,7 @@ Currently, I'm expanding my knowledge in Cloud Computing, DevOps, distributed sy
 </a>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gcp,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=gcp,linux" />
 </a>
 
 <a href="https://skillicons.dev">
