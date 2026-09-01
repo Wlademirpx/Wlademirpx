@@ -66,11 +66,6 @@ src="https://github-readme-stats-fast.vercel.app/api?username=Wlademirpx&show_ic
 alt="GitHub Stats - Wlademir Pontes Xavier"
 />
 
-<img height="180em"
-src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Wlademirpx&layout=compact&theme=github_dark&hide_border=true"
-alt="Top Languages - Wlademir Pontes Xavier"
-/>
-
 </div>
 
 ---
