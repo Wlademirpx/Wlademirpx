@@ -58,18 +58,6 @@ Distributed Systems
 Data Structures & Algorithms
 ---
 
-GitHub Statistics
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats-fast.vercel.app/api?username=Wlademirpx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
-alt="GitHub Stats - Wlademir Pontes Xavier"
-/>
-
-</div>
-
----
-
 Connect
 <div align="center">
 
